@@ -1,4 +1,8 @@
 # RGBDS Template
+![Build status](https://github.com/leefogg/RGBDSTemplate/workflows/build/badge.svg)
+![GitHub License](https://img.shields.io/badge/license-unlicense-blue)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)
+
 No-frills basic scaffold for starting a new RGBDS project.
 
 Adheres to the community reccomended setup including:
